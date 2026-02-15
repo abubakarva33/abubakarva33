@@ -1,4 +1,4 @@
-Hi there 👋<br>
+<h3> Hi there 👋 </h3><br>
 I'm Abubakar — a web developer and game UI developer who enjoys building clean, responsive, and interactive web and game interfaces. I specialize in ReactJS, NextJS, Svelte, and Preact, and I love turning ideas into engaging user experiences. Recently, I’ve been diving into advanced AI automation and system optimization to build smarter and more efficient solutions.<br><br>
 
 🔭 I’m currently working on frontend web projects and contributing to the GTA FiveM game community<br>
