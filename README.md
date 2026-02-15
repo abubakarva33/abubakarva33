@@ -7,15 +7,13 @@ I'm Abubakar — a web developer and game UI developer who enjoys building clean
 - 🌱 Learning Advanced AI automation & system optimization  
 - 👯 Open to collaboration on web, game and automation projects  
 - 🤔 Exploring Scalable integrations and system design  
-- 💬 Ask me about web development, automation, or workflows  
+- 💬 Ask me about web development, automation, or workflows
+- 📫 Connect With Me [WhatsApp](https://wa.me/8801580743409)
 
 ### 🛠 Tech Stack
 - **Frontend:** ReactJS • NextJS • Svelte • Preact
 - **Backend:** ExpressJs • NodeJs
 - **Core:** HTML • CSS • JavaScript  • TypeScript  
 - **Tools:** Automation • n8n • GoHighLavel  
-
-### 📫 Connect With Me
-- 👉 [WhatsApp](https://wa.me/8801580743409)
 
 ⭐ Thanks for visiting my profile — let’s build something awesome!
